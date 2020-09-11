@@ -43,7 +43,8 @@ end
 def matrix_update(matrix, row, column, new_value)
   [matrix[0]][row[1]][column[2]]
   [matrix[0]][row[1]][column[2] = "Lemons"
-  [matrix[0]]
+  [matrix[0]][row[1]][column[2]]
+
   # Given any matrix (array of arrays), a row index and a column index, 
   # Update the matrix location at that row and column to have the value of new_value
   # Return the updated matrix

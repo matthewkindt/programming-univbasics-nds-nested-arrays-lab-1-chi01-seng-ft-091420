@@ -33,7 +33,7 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-([matrix[1]][row[1]][column[0]])
+[matrix[1]][row[1]][column[0]
 
   
   # Given any matrix (array of arrays), a row index and a column index, 
@@ -41,7 +41,7 @@ def matrix_lookup(matrix, row, column)
 end
 
 def matrix_update(matrix, row, column, new_value)
-  [matrix[0]][row[1]][column[2]]
+  [matrix[1]][row[0]][column[2]]
   [matrix[0]]
   # Given any matrix (array of arrays), a row index and a column index, 
   # Update the matrix location at that row and column to have the value of new_value

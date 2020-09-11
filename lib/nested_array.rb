@@ -34,7 +34,7 @@ end
 
 def matrix_lookup(matrix, row, column)
 matrix, row, column[0][1][1] 
-matrix, row, column[1][1][1]
+
 
   
   # Given any matrix (array of arrays), a row index and a column index, 
